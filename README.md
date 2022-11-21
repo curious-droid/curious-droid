@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
 My top 5 most salient lines of code:
 - ```#include <iostream>```
 - ```#define int long long```
+- ```signed main(){...}```
 - ```for (auto it = ranges.lower_bound({{l, 0}, 0}); it != ranges.end() && (*it).first.first <= r; it = ranges.erase(it))```
-- ```dp[i + 1][j - k] = (dp[i + 1][j - k] + (dp[i][j] * ((choose[j][k] * choose[N - k][a[i] - k]) % MOD)) % MOD) % MOD;```
 - ```std::cout << ((((dp[N][0][0] + dp[N][0][1]) % MOD - dp[N][1][1] + MOD) % MOD - dp[N][1][0] + MOD) % MOD + MOD) % MOD << "\n";```
