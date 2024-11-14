@@ -8,9 +8,6 @@
 ![reading level sixth grade](https://camo.githubusercontent.com/7d272112074d60583d23dd7182aca9025e42a25ce92f494e8b22a07a3b987afa/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f72656164696e672d3674682d67726164652d6c6576656c2e737667)
 
 - 👋 Hi, I’m @curious-droid
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me: 𝙲𝚞𝚛𝚒𝚘𝚞𝚜_𝙳𝚛𝚘𝚒𝚍#4678 on Discord
 - 😎 My coolest projects:
     - Cambio Online: https://cambio-online.vercel.app/
