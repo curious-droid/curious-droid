@@ -12,6 +12,10 @@
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me: 𝙲𝚞𝚛𝚒𝚘𝚞𝚜_𝙳𝚛𝚘𝚒𝚍#4678 on Discord
+- 😎 My coolest projects:
+    - Cambio Online: https://cambio-online.vercel.app/
+    - EagleGPT: https://eagle-gpt.vercel.app/chat
+    - 107 Solver: https://curious-droid.github.io/107-solver/
 
 <!---
 curious-droid/curious-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
