@@ -5,7 +5,7 @@
 ![designed in ms paint](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)
 ![works every time](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
 ![not a bug but a feature](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
-![reading level sixth grade](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)
+<!---![reading level sixth grade](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)--->
 
 - 👋 Hi, I’m @curious-droid
 - 📫 How to reach me: 𝙲𝚞𝚛𝚒𝚘𝚞𝚜_𝙳𝚛𝚘𝚒𝚍#4678 on Discord
